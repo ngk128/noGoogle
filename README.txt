@@ -1,4 +1,4 @@
-noGoogle is a browser extension that hides Google's home page
+noGoogle is a browser extension that hides google.com home page
 
 How To Install:
 1. To install go to settings and open up extensions (in Chrome click the 3 dots on the top right and select More tools->Extensions OR go to the url: chrome://extensions/).
